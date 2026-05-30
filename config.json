@@ -12,11 +12,11 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "torbapamibot",
-  "PREFIX": "Umma",
+  "PREFIX": "..",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
+    "61589660248464",
     "61586663640809",
     "100044713412032"
   ],
